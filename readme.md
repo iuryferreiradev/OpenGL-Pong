@@ -4,7 +4,9 @@ This adaptation of pong is my first OpenGL and c++ project. Taking in considerat
 that this is my first project using this technologies the code is not polished,
 this way i can start a new project as soon as possible and consolidate more the
 principles learned. For more polished projects please check the newer repos i'll
-be creating.
+be creating.  
+
+![pong_gif_01](gifs/pong_01.gif)
 
 ## Dependencies
 
